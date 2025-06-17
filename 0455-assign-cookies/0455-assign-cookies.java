@@ -4,15 +4,15 @@ class Solution {
         Arrays.sort(s);
         int m = g.length;
         int n = s.length;
-        int l=0;
-        int r=0;
+        int left=0;
+        int right=0;
 
-        while(l<n &&r<m){
-            if(g[r]<=s[l]){
-                r++;
+        while(left<n &&right<m){
+            if(g[right]<=s[left]){
+                right++;
             }
-            l++;
+            left++;
         }
-        return r;
+        return right;
     }
 }
