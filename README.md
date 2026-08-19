@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/shrutiii2901/LeetCodes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/shrutiii2901/LeetCodes/tree/main/1563-stone-game-v/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shrutiii2901/LeetCodes/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Math
@@ -23,5 +24,14 @@ Collection of LeetCode questions to ace the coding interview !
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/shrutiii2901/LeetCodes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shrutiii2901/LeetCodes/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/shrutiii2901/LeetCodes/tree/main/1386-cinema-seat-allocation/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/shrutiii2901/LeetCodes/tree/main/1386-cinema-seat-allocation/) | Medium |
 <!---LeetCode Topics End-->
