@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/shrutiii2901/LeetCodes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/shrutiii2901/LeetCodes/tree/main/1563-stone-game-v/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shrutiii2901/LeetCodes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -39,4 +40,20 @@ Collection of LeetCode questions to ace the coding interview !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shrutiii2901/LeetCodes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
