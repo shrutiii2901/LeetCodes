@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +57,13 @@ Collection of LeetCode questions to ace the coding interview !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0226-invert-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0226-invert-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
