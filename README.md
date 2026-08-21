@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/shrutiii2901/LeetCodes/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,10 +63,12 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/shrutiii2901/LeetCodes/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/shrutiii2901/LeetCodes/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +81,12 @@ Collection of LeetCode questions to ace the coding interview !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shrutiii2901/LeetCodes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/shrutiii2901/LeetCodes/tree/main/0257-binary-tree-paths/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/shrutiii2901/LeetCodes/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
