@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/shrutiii2901/LeetCodes/tree/main/0257-binary-tree-paths/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/shrutiii2901/LeetCodes/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,15 +68,18 @@ Collection of LeetCode questions to ace the coding interview !
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/shrutiii2901/LeetCodes/tree/main/0257-binary-tree-paths/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/shrutiii2901/LeetCodes/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/shrutiii2901/LeetCodes/tree/main/0257-binary-tree-paths/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/shrutiii2901/LeetCodes/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/shrutiii2901/LeetCodes/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
