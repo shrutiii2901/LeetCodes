@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/shrutiii2901/LeetCodes/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shrutiii2901/LeetCodes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shrutiii2901/LeetCodes/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Greedy
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/shrutiii2901/LeetCodes/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shrutiii2901/LeetCodes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shrutiii2901/LeetCodes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Simulation
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/shrutiii2901/LeetCodes/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shrutiii2901/LeetCodes/tree/main/0257-binary-tree-paths/) | Easy |
 | [1927-sum-game](https://github.com/shrutiii2901/LeetCodes/tree/main/1927-sum-game/) | Medium |
 ## Backtracking
@@ -106,4 +109,24 @@ Collection of LeetCode questions to ace the coding interview !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shrutiii2901/LeetCodes/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/shrutiii2901/LeetCodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/shrutiii2901/LeetCodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/shrutiii2901/LeetCodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/shrutiii2901/LeetCodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/shrutiii2901/LeetCodes/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
