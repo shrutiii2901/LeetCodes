@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/shrutiii2901/LeetCodes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/shrutiii2901/LeetCodes/tree/main/1563-stone-game-v/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shrutiii2901/LeetCodes/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shrutiii2901/LeetCodes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shrutiii2901/LeetCodes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shrutiii2901/LeetCodes/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -97,4 +98,12 @@ Collection of LeetCode questions to ace the coding interview !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/shrutiii2901/LeetCodes/tree/main/0257-binary-tree-paths/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shrutiii2901/LeetCodes/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shrutiii2901/LeetCodes/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 <!---LeetCode Topics End-->
