@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutiii2901/LeetCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0217-contains-duplicate](https://github.com/shrutiii2901/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/shrutiii2901/LeetCodes/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shrutiii2901/LeetCodes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/shrutiii2901/LeetCodes/tree/main/1563-stone-game-v/) | Hard |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shrutiii2901/LeetCodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0217-contains-duplicate](https://github.com/shrutiii2901/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/shrutiii2901/LeetCodes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shrutiii2901/LeetCodes/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Greedy
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/shrutiii2901/LeetCodes/tree/main/0217-contains-duplicate/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shrutiii2901/LeetCodes/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
