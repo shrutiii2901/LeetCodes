@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shrutiii2901/LeetCodes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shrutiii2901/LeetCodes/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/shrutiii2901/LeetCodes/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/shrutiii2901/LeetCodes/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/shrutiii2901/LeetCodes/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1927-sum-game](https://github.com/shrutiii2901/LeetCodes/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shrutiii2901/LeetCodes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/shrutiii2901/LeetCodes/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/shrutiii2901/LeetCodes/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
