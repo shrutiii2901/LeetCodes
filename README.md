@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/shrutiii2901/LeetCodes/tree/main/0115-distinct-subsequences/) | Hard |
 | [1563-stone-game-v](https://github.com/shrutiii2901/LeetCodes/tree/main/1563-stone-game-v/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/shrutiii2901/LeetCodes/tree/main/0115-distinct-subsequences/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/shrutiii2901/LeetCodes/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shrutiii2901/LeetCodes/tree/main/0257-binary-tree-paths/) | Easy |
 | [1927-sum-game](https://github.com/shrutiii2901/LeetCodes/tree/main/1927-sum-game/) | Medium |
