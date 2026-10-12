@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/shrutiii2901/LeetCodes/tree/main/0007-reverse-integer/) | Medium |
 | [1563-stone-game-v](https://github.com/shrutiii2901/LeetCodes/tree/main/1563-stone-game-v/) | Hard |
 | [1927-sum-game](https://github.com/shrutiii2901/LeetCodes/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shrutiii2901/LeetCodes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
